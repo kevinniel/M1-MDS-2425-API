@@ -38,6 +38,7 @@ Par groupe conséquent de 1 personne, vous allez devoir créer une API qui met �
 
 - Un repo github (oui, public Adrien 😇) (que vous allez m'envoyer en MP AUJOURD'HUI)
 - Un readme qui contient toutes les explications d'installation step-by-step. ☣☣☣☣ Si je n'arrive pas à installer "bêtement" vos API, en suivant step-by-step les indications de vos readme, 0 ☣☣☣☣
+- Rendu le 15 janvier à 17h MAX
 
 ## BONUS
 
