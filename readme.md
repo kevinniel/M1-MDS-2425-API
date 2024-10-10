@@ -11,7 +11,13 @@ Par groupe conséquent de 1 personne, vous allez devoir créer une API qui met �
 - récupérer tous domaines & sous-domaines associés à un Nom De Domaine (Adrien, on appelle ça aussi un "NDD" dans le milieu 😁)
 - DDoS
 - changement d'image random (trouver une API qui fait ça ^^)
-- Génération d'identité fictive
+- Génération d'identité fictive => utilisez la lirairie Faker !
+  - faker JS : https://fakerjs.dev/
+  - faker PHP : https://fakerphp.org/
+  - faker python : https://faker.readthedocs.io/en/master/
+  - faker .NET : https://www.nuget.org/packages/Faker.Net/
+  - faker JAVA : https://javadoc.io/doc/com.github.javafaker/javafaker/latest/com/github/javafaker/Faker.html
+  - faker ruby : https://github.com/faker-ruby/faker
 - Crawler d'information sur une personne (à partir d'un nom / prénom)
 - Générateur de mot de passe sécurisé
 
