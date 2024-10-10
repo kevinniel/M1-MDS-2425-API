@@ -29,3 +29,7 @@ Par groupe conséquent de 1 personne, vous allez devoir créer une API qui met �
 - Vous devrez obligatoirement tester votre API via POSTMAN. En y incluant :
   - Organiser vos routes en collection et dans un projet
   - Automatisant la génération du bearer et sa transmission dans toutes les requêtes. (Bearer = JWT)
+ 
+## Vos choix 
+
+- technologies utilisées
